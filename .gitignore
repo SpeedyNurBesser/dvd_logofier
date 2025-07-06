@@ -1,0 +1,3 @@
+*.png
+/dist
+/src/dvd_logofier/__pycache__
